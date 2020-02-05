@@ -13,7 +13,8 @@ Metis Project 04, Part I
 	- Cleans up dataframe
 - "Project_04_Classifier_R1"
 	- Selects "definitive" hashtags
-	- Performs text preprocessing on tweets
+	- Creates training subset composed of tweets that contain the definitive hashtags
+	- Performs text preprocessing on training set
 	- Tests a number of classifier baseline models
 	- Performs grid search to optimize best models
-	- Classifies entire tweet dataset 
+	- Classifies entire tweet dataset with best model
