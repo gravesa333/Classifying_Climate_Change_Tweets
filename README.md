@@ -15,5 +15,5 @@ Metis Project 04, Part I
 	- Selects "definitive" hashtags
 	- Performs text preprocessing on tweets
 	- Tests a number of classifier baseline models
-	- Performs grid search to optimize best modela
+	- Performs grid search to optimize best models
 	- Classifies entire tweet dataset 
